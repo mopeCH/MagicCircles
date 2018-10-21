@@ -6,36 +6,7 @@ The world's awesomest, most useless library.
 
 ![Magic Circle Man](https://raw.githubusercontent.com/danielstern/MagicCircles/master/project_images/logo.jpg)
 
-What is Magic Circles?
---------
-Magic Circles is a library for making sweet animated magic (or "summoning") circles like in Diablo, Final Fantasy, etc. Magic Circles uses D3 and SVG graphics to provide a smooth experience.
-
-Magic Circles is compatible with all modern browsers including Google Chrome, Mozilla Firefox and IE9+.
-
-<h2>
-  <a href="http://azureda.com/magicCircles/">Check out the Demo Page!
-</h2>
-
-### But, why?
-Because I DON'T KNOW!
-
-### How it works?
-Magic Circles uses the following simple syntax.
-
-```
-  var magicCircle = new MagicCircle("#myDiv");
-  
-  magicCircle.cast()
-    .ring(25) // draws a ring with a width of 25.
-    .text(16,"Magic Circles by Azureda") // makes a ring of text 16px high.
-    .ring(5)
-      .color('purple') // makes a snazzy purple ring
-    .text(14,"I II III IV V")
-    // ... etc;
-
-```
-
-Each element that you define (or cast) is added to the ring in another concentric circle. If this does not make sense, check out the first example on the demo page.
+What is Magic Circles?= this does not make sense, check out the first example on the demo page.
 
 #### Dependencies
 MC (Magic Circles) has the following depencies, that will need to be loaded before the magicCircles.js file.
