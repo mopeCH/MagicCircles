@@ -125,7 +125,7 @@ var MagicCircle = function(selector) {
 
     var blurFeMerge = blurFilter.append("feMerge");
 
-    blurFeMerge.append("feMergeNode")
+    blurFeMerge.append("feMergeNode")//heheeeee
       .attr("in", "offsetBlur")
     blurFeMerge.append("feMergeNode")
       .attr("in", "SourceGraphic");
