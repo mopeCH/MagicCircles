@@ -1,7 +1,7 @@
 MagicCircles
 ============
 
-The world's awesomest, most useless library.
+The world's awesomest, most idle library.
 -----------------------------
 
 ![Magic Circle Man](https://raw.githubusercontent.com/danielstern/MagicCircles/master/project_images/logo.jpg)
