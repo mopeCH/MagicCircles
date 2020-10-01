@@ -5,12 +5,6 @@ var hehe = {
                 .toString(16)
                 .substring(1);
         }
-
-        return s4() + s4() + '-' + s4() + '-' + s4() + '-' +
-            s4() + '-' + s4() + s4() + s4();
-    },
-    physics: function() {
-        var equations = [
             "v = v0 + at",
             "x = x0 + v0t + ½at2",
             "v2 = v02 + 2a(x − x0)",
